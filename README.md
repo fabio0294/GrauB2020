@@ -1,0 +1,2 @@
+# GrauB2020
+// programa le nome, sexo (1-Masculino 2-Feminino), idade, e estado civil(1-Solteiro, 2-Casado 3-Divorciado) de um grupo de 10 pessoas. Todos os dados em de uma pessoa em uma linha, // utilizar tecnicas de armazenamento de dados em vetores, estrutura de repetição para leitura e apresentação na tela, estrutura condicionais, entre outras; // deve ser executado infintas vezes ate que pressione a tecla S no final da repetição // media da idade das mulhers // media da idade dos homens // estado civil que mais ocorreu // estaco civil que menos ocorreu
